@@ -5,8 +5,8 @@ locale: en-US
 title: "Tobias Roth"
 description: "Software Technology Group @ TU Darmstadt"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: http://tobias_roth@github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: /images/profile.jpg # path of site logo, e.g. "/images/logo.png"
+url: http://tobias_roth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: #/images/profile.jpg # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -63,10 +63,10 @@ plugins:
 
 # Site Author
 author: 
-  name: Michael Reif
+  name: Tobias Roth
   picture: 
-  email:  info@michael-reif.name
-  twitter: Reifmi
+  email:  roth@cs.tu-darmstadt.de
+  twitter: roterEmil
   links:
     - title:
       url:
@@ -75,7 +75,7 @@ author:
 # Footer Links
 footer_links:
   - title: Feed
-    url: http://michael-reif.name
+    url: tobias_roth.github.io
     icon: fas fa-rss-square
 
 collections:
